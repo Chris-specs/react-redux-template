@@ -1,12 +1,13 @@
 
 # ReactJS Starter Template 🚀
 
-This is a starter template for ReactJS projects.
+This is a starter template for React/Redux projects.
 
   
 ## Dependencies ⚙️
 
  - [ReactJS](https://reactjs.org/)
+ - [Redux](https://redux.js.org/)
  - [Tailwind CSS](https://tailwindcss.com/)
  - [React Router Dom](https://reactrouter.com/web/guides/quick-start)
  - [Axios](https://axios-http.com/)
