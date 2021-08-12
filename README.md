@@ -1,5 +1,5 @@
 
-# ReactJS Starter Template 🚀
+# React/Redux Starter Template 🚀
 
 This is a starter template for React/Redux projects.
 
