@@ -38,6 +38,6 @@ Run project for development 🚧
 ```
 
 ## 
-Made with ❤️ by [Chris](https://github.com/Chris-specs)
+Made with ❤️ by [Christian](https://github.com/Chris-specs)
 
   
