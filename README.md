@@ -13,7 +13,7 @@
 This is a starter template for React/Redux projects.
 
   
-## Dependencies ⚙️
+## Dependencies 🧱
 
  - [ReactJS](https://reactjs.org/)
  - [Redux](https://redux.js.org/)
@@ -23,7 +23,7 @@ This is a starter template for React/Redux projects.
  - [React Icons](https://react-icons.github.io/react-icons)
 
   
-## Instructions ☑️
+## Instructions
 
 Install dependencies with yarn ⚙️
 
